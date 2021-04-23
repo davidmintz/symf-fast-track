@@ -14,6 +14,7 @@
         "symfony/yaml": "5.2.*"
     },
     "require-dev": {
+        "easycorp/easy-deploy-bundle": "^1.0"
     },
     "config": {
         "optimize-autoloader": true,
